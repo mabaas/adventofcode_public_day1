@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthMeasurements", "DepthMeasurements\DepthMeasurements.csproj", "{1B985288-9AAD-41BF-9550-E7E5674622BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B985288-9AAD-41BF-9550-E7E5674622BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B985288-9AAD-41BF-9550-E7E5674622BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B985288-9AAD-41BF-9550-E7E5674622BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B985288-9AAD-41BF-9550-E7E5674622BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBFA3243-B45E-4838-A643-C76E3C13CA49}
+	EndGlobalSection
+EndGlobal
